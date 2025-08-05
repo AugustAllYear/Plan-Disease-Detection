@@ -13,7 +13,7 @@ For this project, you will design, train, and evaluate a deep learning model to 
 
 You will also present your project to the class.
 
-**Note:** We are including a predefined project option if you are uncertain where to start, see the [`project-plants`]('./project-plants/') directory.
+**Note:** We are including a predefined project option if you are uncertain where to start, see the `[project-plants]('./project-plants/')` directory.
 
 ---
 
