@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Deep Learning Project: End to End Solution Using PyTorch</span>
+  <span class="headline">Deep Learning Project: PyTorch or Keras</span>
 </h1>
 
 ## About
@@ -19,7 +19,7 @@ You will also present your project to the class.
 
 ## Prerequisites
 - Understand how neural networks work
-- Run a neural network using PyTorch
+- Run a neural network using PyTorch or Keras
 
 ---
 
@@ -70,7 +70,7 @@ Need inspiration?  Here are some data sets you could use:
      - **CNNs** for image data.
      - **RNNs** for sequential data.
      - **Transfer Learning** for pre-trained models.
-   - Implement the architecture in PyTorch, documenting your decisions (e.g., choice of layers, activation functions).
+   - Implement the architecture in PyTorch or Keras, documenting your decisions (e.g., choice of layers, activation functions).
 
 3. **Training and Optimization**
    - Train the model on the data set, using an appropriate optimizer and loss function.
