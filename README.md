@@ -46,7 +46,7 @@ The following are the steps that were taken in the jupyter notebook named plant_
 
     The [data set](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset/data.) was retreived from Kaggle.com.
     This dataset is pre sorted into a training and validation set and further sorted species per disease state/healthy.
-    It contains 38 classes of imagesOver 50,000 images for the model to learn from
+    It contains over 50,000 images divided into 38 classes each containing approximtley 1,300 images per class for the model to train on.
 
 2. Preprocess and transform the data:
  - Set image dimensions to 224x224 pixels.
